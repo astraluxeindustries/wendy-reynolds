@@ -11,27 +11,27 @@ export const About = () => {
               <div className="absolute -bottom-4 -right-4 w-24 h-24 bg-slate-100 rounded-br-3xl -z-10"></div>
               <img 
                 src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&auto=format&fit=crop&w=988&q=80" 
-                alt="Sarah Jenkins" 
+                alt="Wendy Reynolds" 
                 className="rounded-xl shadow-lg w-full object-cover h-[500px]"
               />
             </div>
           </div>
           <div className="lg:w-1/2">
             <h2 className="text-3xl md:text-4xl font-serif font-bold text-slate-900 mb-6">
-              About Sarah Jenkins
+              About Wendy Reynolds
             </h2>
             <div className="space-y-4 text-slate-600 leading-relaxed">
               <p>
-                With over 15 years of experience in the mortgage industry, I have dedicated my career to helping families achieve the dream of homeownership. My approach is simple: listen first, advise second.
+                With more than 15 years of experience in the mortgage industry, Wendy has built a reputation for guiding clients through the home financing process with clarity, care, and precision. She graduated from Brigham Young University with a degree in Accounting and began her career in the accounting field before transitioning into mortgage lending. That background in financial analysis and attention to detail quickly became a strong foundation for her work helping clients secure the right loan for their needs.
               </p>
               <p>
-                I understand that a mortgage is not just a loan; it's likely the largest financial commitment you will make. That's why I take the time to explain every detail, ensuring you feel confident and empowered throughout the process.
+                Today, Wendy serves clients through Intercap Lending in Pleasant Grove. She is known for her ability to put the puzzle pieces of a loan together and create a smooth, organized path from application to closing. Her thoughtful communication and strong work ethic allow her to simplify complex scenarios and anticipate challenges before they arise. Clients appreciate her ability to guide them confidently through the process while keeping everything efficient and well managed.
               </p>
               <p>
-                Whether you are buying your first home, investing in real estate, or refinancing, I am committed to finding the best loan solution for your unique situation.
+                Wendy prides herself on building genuine, long term relationships with the people she works with. She approaches each transaction with professionalism, patience, and a commitment to finding solutions even in challenging situations. She has particular experience working with specialized loan programs and helping clients navigate difficult financing scenarios with confidence.
               </p>
               <p>
-                When I'm not closing loans, you can find me hiking the trails of the Pacific Northwest or volunteering at the local food bank.
+                Outside of work, Wendy enjoys spending time with her family and being a proud Mimi to her seven grandbabies, with more on the way. She loves cooking for family gatherings and is especially known for her homemade pizza. When she is not helping clients secure their next home, she also enjoys cycling and spending time outdoors.
               </p>
             </div>
             <div className="mt-8 pt-8 border-t border-slate-100 grid grid-cols-2 gap-4">
@@ -41,7 +41,7 @@ export const About = () => {
               </div>
               <div>
                 <span className="block text-3xl font-serif font-bold text-slate-900">Top 1%</span>
-                <span className="text-sm text-slate-500">Originator in WA</span>
+                <span className="text-sm text-slate-500">Originator in UT</span>
               </div>
             </div>
           </div>
